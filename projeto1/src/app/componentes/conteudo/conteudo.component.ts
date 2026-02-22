@@ -29,4 +29,8 @@ export class ConteudoComponent implements OnInit {
     //console.log(this.valor);
   }
 
+  public enviarDados() {
+
+  }
+
 }
